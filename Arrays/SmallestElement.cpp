@@ -2,17 +2,17 @@
 #include <vector>
 using namespace std;
 
-int largestElement(vector<int> &nums)
+int smallestElement(vector<int> &nums)
 {
-    int max = nums[0];
+    int min = nums[0];
     for (int i = 1; i < nums.size(); i++)
     {
-        if (nums[i] > max)
+        if (nums[i] > min)
         {
-            max = nums[i];
+            min = nums[i];
         }
     }
-    return max;
+    return min;
 }
 int main()
 {
@@ -24,7 +24,7 @@ int main()
         cin >> nums[i];
     }
 
-    int result = largestElement(nums);
+    int result = smallestElement(nums);
     cout << "Largest Element:" << result;
 
     return 0;
