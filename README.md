@@ -29,6 +29,7 @@ Arrays (in progress)
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/0075-sort-colors) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/0345-reverse-vowels-of-a-string) |
 ## Sorting
 |  |
 | ------- |
@@ -47,4 +48,8 @@ Arrays (in progress)
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/0053-maximum-subarray) |
+## String
+|  |
+| ------- |
+| [0345-reverse-vowels-of-a-string](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/0345-reverse-vowels-of-a-string) |
 <!---LeetCode Topics End-->
