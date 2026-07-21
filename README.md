@@ -17,6 +17,7 @@ Arrays (in progress)
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/0001-two-sum) |
+| [0027-remove-element](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -29,6 +30,7 @@ Arrays (in progress)
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/0075-sort-colors) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/0345-reverse-vowels-of-a-string) |
 | [0541-reverse-string-ii](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/0541-reverse-string-ii) |
