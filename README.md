@@ -21,11 +21,13 @@ Arrays (in progress)
 | [0053-maximum-subarray](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/0169-majority-element) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/0001-two-sum) |
+| [0128-longest-consecutive-sequence](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/0169-majority-element) |
 ## Two Pointers
 |  |
@@ -63,4 +65,8 @@ Arrays (in progress)
 | [0541-reverse-string-ii](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1768-merge-strings-alternately](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/1768-merge-strings-alternately) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
