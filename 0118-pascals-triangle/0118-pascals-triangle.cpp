@@ -5,8 +5,7 @@ vector <int> generateRow (int row){
     vector <int> ansRow;
     ansRow.push_back(1);
     for(int col = 1 ; col<row; col++){
-        ans = ans*(row-col);
-        ans = ans/col;
+        ans = ans * (row - col) / col;
         ansRow.push_back(ans);
     }
     return ansRow;
