@@ -27,6 +27,7 @@ Arrays (in progress)
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/0904-fruit-into-baskets) |
@@ -37,6 +38,7 @@ Arrays (in progress)
 | [0073-set-matrix-zeroes](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/0904-fruit-into-baskets) |
@@ -54,6 +56,7 @@ Arrays (in progress)
 | ------- |
 | [0075-sort-colors](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
@@ -64,6 +67,7 @@ Arrays (in progress)
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/0229-majority-element-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -113,4 +117,8 @@ Arrays (in progress)
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/0268-missing-number) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
