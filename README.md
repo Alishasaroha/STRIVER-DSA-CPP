@@ -25,6 +25,7 @@ Arrays (in progress)
 | [0056-merge-intervals](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/0128-longest-consecutive-sequence) |
@@ -50,6 +51,7 @@ Arrays (in progress)
 | [0018-4sum](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/0088-merge-sorted-array) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/0345-reverse-vowels-of-a-string) |
 | [0541-reverse-string-ii](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -60,6 +62,7 @@ Arrays (in progress)
 | [0018-4sum](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/0268-missing-number) |
