@@ -35,6 +35,7 @@ Arrays (in progress)
 | [0268-missing-number](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/0268-missing-number) |
 | [0493-reverse-pairs](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/0560-subarray-sum-equals-k) |
+| [0704-binary-search](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/0704-binary-search) |
 | [0904-fruit-into-baskets](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/0904-fruit-into-baskets) |
 ## Hash Table
 |  |
@@ -126,6 +127,7 @@ Arrays (in progress)
 | ------- |
 | [0268-missing-number](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/0268-missing-number) |
 | [0493-reverse-pairs](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/0493-reverse-pairs) |
+| [0704-binary-search](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/0704-binary-search) |
 ## Bit Manipulation
 |  |
 | ------- |
