@@ -19,6 +19,7 @@ Arrays (in progress)
 | [0001-two-sum](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/0001-two-sum) |
 | [0018-4sum](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/0054-spiral-matrix) |
@@ -125,6 +126,7 @@ Arrays (in progress)
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/0268-missing-number) |
 | [0493-reverse-pairs](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/0493-reverse-pairs) |
 | [0704-binary-search](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/0704-binary-search) |
