@@ -41,6 +41,7 @@ Arrays (in progress)
 | [0560-subarray-sum-equals-k](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/0704-binary-search) |
 | [0904-fruit-into-baskets](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/0904-fruit-into-baskets) |
+| [4039-sum-of-decoded-numbers](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/4039-sum-of-decoded-numbers) |
 ## Hash Table
 |  |
 | ------- |
@@ -114,10 +115,12 @@ Arrays (in progress)
 | ------- |
 | [0048-rotate-image](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/0048-rotate-image) |
 | [0268-missing-number](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/0268-missing-number) |
+| [4039-sum-of-decoded-numbers](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/4039-sum-of-decoded-numbers) |
 ## Simulation
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/0054-spiral-matrix) |
+| [4039-sum-of-decoded-numbers](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/4039-sum-of-decoded-numbers) |
 ## Sliding Window
 |  |
 | ------- |
