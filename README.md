@@ -39,6 +39,7 @@ Arrays (in progress)
 | [0229-majority-element-ii](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/0268-missing-number) |
 | [0493-reverse-pairs](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/0493-reverse-pairs) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/0704-binary-search) |
 | [0904-fruit-into-baskets](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/0904-fruit-into-baskets) |
@@ -140,6 +141,7 @@ Arrays (in progress)
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/0268-missing-number) |
 | [0493-reverse-pairs](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/0493-reverse-pairs) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/0704-binary-search) |
 ## Bit Manipulation
 |  |
