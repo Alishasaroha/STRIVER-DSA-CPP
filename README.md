@@ -101,6 +101,7 @@ Arrays (in progress)
 | [0345-reverse-vowels-of-a-string](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/0345-reverse-vowels-of-a-string) |
 | [0541-reverse-string-ii](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/0557-reverse-words-in-a-string-iii) |
+| [1021-remove-outermost-parentheses](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/1021-remove-outermost-parentheses) |
 | [1768-merge-strings-alternately](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/1768-merge-strings-alternately) |
 ## Union-Find
 |  |
@@ -181,4 +182,12 @@ Arrays (in progress)
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/0069-sqrtx) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/1021-remove-outermost-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
