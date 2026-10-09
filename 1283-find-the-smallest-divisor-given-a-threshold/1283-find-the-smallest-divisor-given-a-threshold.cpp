@@ -11,13 +11,13 @@ public:
     }
     int smallestDivisor(vector<int>& nums, int threshold) {
         int low = 1;
-        int n = nums.size();
+
         int ans = -1;
         int high = maximumEle(nums);
         while (low <= high){
             int mid = low +(high - low)/2;
             int sum = 0 ; 
-            for (int i = 0; i< n ; i++){
+            for (int i = 0; i< nums.size(); i++){
                 sum = sum + ceil((double)nums[i]/mid);
             }
             if(sum <= threshold){
