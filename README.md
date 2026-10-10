@@ -42,6 +42,7 @@ Arrays (in progress)
 | [0540-single-element-in-a-sorted-array](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/0904-fruit-into-baskets) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [4039-sum-of-decoded-numbers](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/4039-sum-of-decoded-numbers) |
@@ -147,6 +148,7 @@ Arrays (in progress)
 | [0493-reverse-pairs](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/0875-koko-eating-bananas) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 ## Bit Manipulation
 |  |
