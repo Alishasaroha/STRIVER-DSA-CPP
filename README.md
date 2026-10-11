@@ -45,6 +45,7 @@ Arrays (in progress)
 | [0875-koko-eating-bananas](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/0904-fruit-into-baskets) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [4039-sum-of-decoded-numbers](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/4039-sum-of-decoded-numbers) |
 ## Hash Table
 |  |
@@ -150,6 +151,7 @@ Arrays (in progress)
 | [0704-binary-search](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/0875-koko-eating-bananas) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 ## Bit Manipulation
 |  |
 | ------- |
