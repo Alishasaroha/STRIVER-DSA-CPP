@@ -66,6 +66,7 @@ Arrays (in progress)
 | [0268-missing-number](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/0904-fruit-into-baskets) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Two Pointers
 |  |
 | ------- |
@@ -100,6 +101,7 @@ Arrays (in progress)
 | ------- |
 | [0169-majority-element](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/0229-majority-element-ii) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -117,6 +119,7 @@ Arrays (in progress)
 | [0557-reverse-words-in-a-string-iii](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1021-remove-outermost-parentheses](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/1021-remove-outermost-parentheses) |
 | [1768-merge-strings-alternately](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/1768-merge-strings-alternately) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Union-Find
 |  |
 | ------- |
