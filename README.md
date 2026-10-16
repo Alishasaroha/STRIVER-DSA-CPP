@@ -18,6 +18,7 @@ Arrays (in progress)
 | ------- |
 | [0001-two-sum](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/0004-median-of-two-sorted-arrays) |
+| [0014-longest-common-prefix](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/0014-longest-common-prefix) |
 | [0018-4sum](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/0033-search-in-rotated-sorted-array) |
@@ -114,6 +115,7 @@ Arrays (in progress)
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/0125-valid-palindrome) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/0345-reverse-vowels-of-a-string) |
@@ -228,4 +230,8 @@ Arrays (in progress)
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/0410-split-array-largest-sum) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
