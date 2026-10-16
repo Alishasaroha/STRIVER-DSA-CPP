@@ -74,6 +74,7 @@ Arrays (in progress)
 | [0027-remove-element](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/0125-valid-palindrome) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/0345-reverse-vowels-of-a-string) |
 | [0541-reverse-string-ii](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -114,6 +115,7 @@ Arrays (in progress)
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/0058-length-of-last-word) |
+| [0125-valid-palindrome](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/0125-valid-palindrome) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/0345-reverse-vowels-of-a-string) |
 | [0541-reverse-string-ii](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/0557-reverse-words-in-a-string-iii) |
