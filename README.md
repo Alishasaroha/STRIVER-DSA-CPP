@@ -64,6 +64,7 @@ Arrays (in progress)
 | [0128-longest-consecutive-sequence](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/0904-fruit-into-baskets) |
@@ -89,6 +90,7 @@ Arrays (in progress)
 | [0088-merge-sorted-array](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
@@ -118,6 +120,7 @@ Arrays (in progress)
 | [0014-longest-common-prefix](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/0345-reverse-vowels-of-a-string) |
 | [0541-reverse-string-ii](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/0557-reverse-words-in-a-string-iii) |
