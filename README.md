@@ -66,6 +66,7 @@ Arrays (in progress)
 | [0229-majority-element-ii](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/0268-missing-number) |
+| [0383-ransom-note](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/0383-ransom-note) |
 | [0560-subarray-sum-equals-k](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/0904-fruit-into-baskets) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -108,6 +109,7 @@ Arrays (in progress)
 | ------- |
 | [0169-majority-element](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/0229-majority-element-ii) |
+| [0383-ransom-note](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/0383-ransom-note) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Dynamic Programming
 |  |
@@ -129,6 +131,7 @@ Arrays (in progress)
 | [0242-valid-anagram](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/0345-reverse-vowels-of-a-string) |
+| [0383-ransom-note](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/0383-ransom-note) |
 | [0541-reverse-string-ii](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1021-remove-outermost-parentheses](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/1021-remove-outermost-parentheses) |
