@@ -131,6 +131,7 @@ Arrays (in progress)
 | [0541-reverse-string-ii](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1021-remove-outermost-parentheses](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1768-merge-strings-alternately](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/1768-merge-strings-alternately) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Union-Find
@@ -231,10 +232,12 @@ Arrays (in progress)
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Greedy
 |  |
 | ------- |
