@@ -60,6 +60,7 @@ Arrays (in progress)
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/0169-majority-element) |
@@ -122,6 +123,7 @@ Arrays (in progress)
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -154,6 +156,7 @@ Arrays (in progress)
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/0268-missing-number) |
