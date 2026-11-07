@@ -117,6 +117,7 @@ Arrays (in progress)
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -130,6 +131,7 @@ Arrays (in progress)
 | [0013-roman-to-integer](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/0125-valid-palindrome) |
@@ -250,6 +252,7 @@ Arrays (in progress)
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/0022-generate-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Greedy
@@ -284,4 +287,8 @@ Arrays (in progress)
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/0050-powx-n) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Alishasaroha/STRIVER-DSA-CPP/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
